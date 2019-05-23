@@ -27,6 +27,7 @@ setup(name='Products.ControlPanelForm',
           # -*- Extra requirements: -*-
           'plone.fieldsets',
           'plone.app.controlpanel',
+          'plone.app.form',
           'plone.app.registry',
       ],
       )
